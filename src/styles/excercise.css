@@ -1,0 +1,22 @@
+.excercise-container{
+    overflow-y: hidden;
+}
+
+.camera-container{
+    display: flex;
+    margin-right: auto;
+    overflow-y: hidden;
+}
+.input_video{
+    margin-right: auto;
+    width : 120px;
+}
+
+.left-cam-container{
+    border : 5px solid red;
+    height : 90px;
+}
+.right-cam-container{
+    border : 5px solid red;
+    margin-left : 10px;
+}

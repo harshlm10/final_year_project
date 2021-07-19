@@ -1,0 +1,97 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+}
+
+h1,h2{
+    font-family: "georgia";
+}
+
+.heading-container{
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    border-bottom: 1px solid beige;
+    border-top: 1px solid beige;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: lightsteelblue;
+}
+
+.pose-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    overflow-x: visible;
+    margin-bottom: 20px;
+}
+
+.poseoption-container{
+    display: flex;
+    margin-right: auto;
+}
+
+.plank-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.squats-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+.suryanamaskar-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color : chartreuse
+}
+
+.halfmoon-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: crimson;
+}
+
+.bicepcurl-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: deeppink;
+}
+
+.poseheading-container{
+    background-color: antiquewhite;
+    width: 100%;
+    margin-bottom: 10px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+    background: none;
+    font: none;
+}
